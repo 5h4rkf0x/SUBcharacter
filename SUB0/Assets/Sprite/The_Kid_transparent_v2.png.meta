@@ -1,0 +1,4733 @@
+fileFormatVersion: 2
+guid: fe7dc7c30e77080468d0db62ea4032e1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3951364628091787833
+    second: The_Kid_transparent_v2_0
+  - first:
+      213: 4267055872105866713
+    second: The_Kid_transparent_v2_1
+  - first:
+      213: 6682836032873212771
+    second: The_Kid_transparent_v2_2
+  - first:
+      213: -23612479459988563
+    second: The_Kid_transparent_v2_3
+  - first:
+      213: -3631767605927649090
+    second: The_Kid_transparent_v2_4
+  - first:
+      213: -4693575378535722387
+    second: The_Kid_transparent_v2_5
+  - first:
+      213: 3111625020959765434
+    second: The_Kid_transparent_v2_6
+  - first:
+      213: -4580796152084068188
+    second: The_Kid_transparent_v2_7
+  - first:
+      213: 2793099778487611141
+    second: The_Kid_transparent_v2_8
+  - first:
+      213: 1665475421466477003
+    second: The_Kid_transparent_v2_9
+  - first:
+      213: 7372664823586680953
+    second: The_Kid_transparent_v2_10
+  - first:
+      213: 1859844001253059962
+    second: The_Kid_transparent_v2_11
+  - first:
+      213: -6517003884753691111
+    second: The_Kid_transparent_v2_12
+  - first:
+      213: 9182177950788437132
+    second: The_Kid_transparent_v2_13
+  - first:
+      213: 2374115010527658022
+    second: The_Kid_transparent_v2_14
+  - first:
+      213: 7489603785191117588
+    second: The_Kid_transparent_v2_15
+  - first:
+      213: -1715680910643622926
+    second: The_Kid_transparent_v2_16
+  - first:
+      213: 8368531434831171519
+    second: The_Kid_transparent_v2_17
+  - first:
+      213: 1646963351683675543
+    second: The_Kid_transparent_v2_18
+  - first:
+      213: -4416785422990863356
+    second: The_Kid_transparent_v2_19
+  - first:
+      213: -3473963594882579113
+    second: The_Kid_transparent_v2_20
+  - first:
+      213: -5061231496092147359
+    second: The_Kid_transparent_v2_21
+  - first:
+      213: -5737874201688016469
+    second: The_Kid_transparent_v2_22
+  - first:
+      213: 3969212780905049429
+    second: The_Kid_transparent_v2_23
+  - first:
+      213: -435500512031162737
+    second: The_Kid_transparent_v2_24
+  - first:
+      213: -6496293232745775112
+    second: The_Kid_transparent_v2_25
+  - first:
+      213: -8433569387457505299
+    second: The_Kid_transparent_v2_26
+  - first:
+      213: -6727655089640597875
+    second: The_Kid_transparent_v2_27
+  - first:
+      213: 5506316136256956544
+    second: The_Kid_transparent_v2_28
+  - first:
+      213: -5276945552246628480
+    second: The_Kid_transparent_v2_29
+  - first:
+      213: 8515749747273685346
+    second: The_Kid_transparent_v2_30
+  - first:
+      213: -6249182462901668891
+    second: The_Kid_transparent_v2_31
+  - first:
+      213: 6398645426417957952
+    second: The_Kid_transparent_v2_32
+  - first:
+      213: -6706518417310060714
+    second: The_Kid_transparent_v2_33
+  - first:
+      213: -5503319250503175527
+    second: The_Kid_transparent_v2_34
+  - first:
+      213: 3880110446855971237
+    second: The_Kid_transparent_v2_35
+  - first:
+      213: 7616448224628144820
+    second: The_Kid_transparent_v2_36
+  - first:
+      213: 4100308115881054863
+    second: The_Kid_transparent_v2_37
+  - first:
+      213: 824357941551707962
+    second: The_Kid_transparent_v2_38
+  - first:
+      213: 879993434687301565
+    second: The_Kid_transparent_v2_39
+  - first:
+      213: -7212388753611522719
+    second: The_Kid_transparent_v2_40
+  - first:
+      213: 4418584145290242869
+    second: The_Kid_transparent_v2_41
+  - first:
+      213: -6570191106612298859
+    second: The_Kid_transparent_v2_42
+  - first:
+      213: -1129692359195988132
+    second: The_Kid_transparent_v2_43
+  - first:
+      213: -944159760318943890
+    second: The_Kid_transparent_v2_44
+  - first:
+      213: -9094784031859980892
+    second: The_Kid_transparent_v2_45
+  - first:
+      213: 6831561778740092786
+    second: The_Kid_transparent_v2_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Idle0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 573
+        width: 22
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5ab845ecee929c0800000000000000
+      internalID: -3951364628091787833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 573
+        width: 24
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d56d9535b0a73b30800000000000000
+      internalID: 4267055872105866713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 573
+        width: 26
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ba697f6f33ebc50800000000000000
+      internalID: 6682836032873212771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle3
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 573
+        width: 24
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab6585339c1caff0800000000000000
+      internalID: -23612479459988563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkF_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 540
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb069e5ba9e599dc0800000000000000
+      internalID: -3631767605927649090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkF_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 540
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62dbd39f021ddeb0800000000000000
+      internalID: -4693575378535722387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkF_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 540
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab336807876be2b20800000000000000
+      internalID: 3111625020959765434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkF_3
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 540
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a88d867b2ebd60c0800000000000000
+      internalID: -4580796152084068188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 507
+        width: 25
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50fe9f6337513c620800000000000000
+      internalID: 2793099778487611141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 507
+        width: 25
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc147ae5215fc1710800000000000000
+      internalID: 1665475421466477003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 507
+        width: 25
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970f6e15897f05660800000000000000
+      internalID: 7372664823586680953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk3
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 507
+        width: 25
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d6458e34e7fc910800000000000000
+      internalID: 1859844001253059962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk4
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 507
+        width: 25
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e5a61de73fe85a0800000000000000
+      internalID: -6517003884753691111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk5
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 507
+        width: 25
+        height: 21
+      alignment: 9
+      pivot: {x: 0.45006043, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c844b2d6236ad6f70800000000000000
+      internalID: 9182177950788437132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkB_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 474
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6208c62060d82f020800000000000000
+      internalID: 2374115010527658022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkB_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 474
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413dcb406fa60f760800000000000000
+      internalID: 7489603785191117588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreJump0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 441
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb0b254d4da038e0800000000000000
+      internalID: -1715680910643622926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreJump1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 442
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf4dc8600ff22470800000000000000
+      internalID: 8368531434831171519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_18
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 164
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795313f31703bd610800000000000000
+      internalID: 1646963351683675543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_19
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 165
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40491851f0d64b2c0800000000000000
+      internalID: -4416785422990863356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 408
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755826c24800acfc0800000000000000
+      internalID: -3473963594882579113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 408
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161a86515c4e2c9b0800000000000000
+      internalID: -5061231496092147359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fall0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 375
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9f18a60d9fe50b0800000000000000
+      internalID: -5737874201688016469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fall1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 375
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d29c39ef9751730800000000000000
+      internalID: 3969212780905049429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallJump0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 348
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8eb1e8779ac4f9f0800000000000000
+      internalID: -435500512031162737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallJump1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 347
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fff96149b788d5a0800000000000000
+      internalID: -6496293232745775112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'Fall[Stoned]'
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 309
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de79cf73351f5fa80800000000000000
+      internalID: -8433569387457505299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 248
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d869f92375192a2a0800000000000000
+      internalID: -6727655089640597875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 223
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088e89a2a5d5a6c40800000000000000
+      internalID: 5506316136256956544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 205
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f134b8af584c6b0800000000000000
+      internalID: -5276945552246628480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_30
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 276
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269de5ad6450e2670800000000000000
+      internalID: 8515749747273685346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_31
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 165
+        width: 1
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3352ad8a17649a0800000000000000
+      internalID: -6249182462901668891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_32
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 86
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04cf1552d1e8cc850800000000000000
+      internalID: 6398645426417957952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 248
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f6e983809ade2a0800000000000000
+      internalID: -6706518417310060714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_34
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 91
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992703cac4840a3b0800000000000000
+      internalID: -5503319250503175527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_35
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 276
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1e12ac4ebe8d530800000000000000
+      internalID: 3880110446855971237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_36
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 276
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba7d1f7e4f03b960800000000000000
+      internalID: 7616448224628144820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_37
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 276
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82ddbcc18837e830800000000000000
+      internalID: 4100308115881054863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_38
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 276
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3736f12e25b07b00800000000000000
+      internalID: 824357941551707962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_39
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 276
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7663fcd5d563c00800000000000000
+      internalID: 879993434687301565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_40
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 276
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d76f634a278eb90800000000000000
+      internalID: -7212388753611522719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_41
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 276
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ba2369ed6f15d30800000000000000
+      internalID: 4418584145290242869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_42
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 276
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b71f7bffdf1d4a0800000000000000
+      internalID: -6570191106612298859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_43
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f66a0e8c68250f0800000000000000
+      internalID: -1129692359195988132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_44
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6da8fa43bba5e2f0800000000000000
+      internalID: -944159760318943890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_45
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 55
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a54718fb16d8c180800000000000000
+      internalID: -9094784031859980892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_46
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 55
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f50fa1e359ece50800000000000000
+      internalID: 6831561778740092786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_47
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 165
+        width: 1
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481ed9b5303684349817148c3f15fea2
+      internalID: -1322761303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_48
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 165
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a0d77ed52413743bda84b5d39ae3ac
+      internalID: 947266773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_49
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 165
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0bd21adef24d4498ed76e45d401ac7
+      internalID: -1365757814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_50
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 165
+        width: 2
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9296ef67f60c8f34f9298ce9fb4e4e28
+      internalID: -366382474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_51
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 165
+        width: 2
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0912d91f9360c44bf0a922c5ccb844
+      internalID: -947733891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_52
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 165
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7481249a48cdfa044be77fed4848daeb
+      internalID: 902242047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_53
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 165
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2b24dd255f635459378a709a2f8649
+      internalID: -336526233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_54
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 166
+        width: 2
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df128df7defc704392b0476884a97c3
+      internalID: -81771411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_55
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 166
+        width: 2
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775e654aad7a99e429ab51d0017d70b8
+      internalID: -857224365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_56
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 165
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e43141bfeb4d374ca8da85231724a63
+      internalID: 546257709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_57
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 165
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e1849ba217e3a4aab59404d4b22c64
+      internalID: -1775735513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_58
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 165
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4276146614360064ba676e33a4bf99cd
+      internalID: -1181888200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_59
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 165
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1c408ea71132644a9a2216aeb7dc5d
+      internalID: -862848257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_60
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 165
+        width: 1
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6483d56641366ec49a7d285f0f3253da
+      internalID: 691619663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_61
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 165
+        width: 1
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5287d9324cb81e4194ddf3b177caa77
+      internalID: -763738887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_62
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 165
+        width: 1
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee4256c4812afa42ae0812a9ecf6e87
+      internalID: -831946647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_63
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 165
+        width: 1
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb1673cc9f680544ad5bde68af8d943
+      internalID: -1410119993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_64
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 165
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc01096426822ad40a6bc5af0bab07bd
+      internalID: 1118229374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_65
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 165
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ac70174a7583a4eb8dfde785eb78b3
+      internalID: -490663487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_66
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 166
+        width: 2
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c33b3b383efeb48a43c27c956e0543
+      internalID: -2018608652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_67
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 166
+        width: 2
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd00b7ec7118f842b8a5ebb3a5f798d
+      internalID: 432812482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_68
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 165
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d8abe35c617214086596722abddbca
+      internalID: 758990162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_69
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 165
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27158c354c3c88e4c9c1e61dcfbfc074
+      internalID: -1841309730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_70
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 163
+        width: 3
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69b1a3ddcc53af42a2e1f2663a5004d
+      internalID: -530735237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_71
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 163
+        width: 3
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71fbd8160657476418c1ed0182692dc4
+      internalID: -288135202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_72
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 163
+        width: 3
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8732212433124bf498bf637b31e32f99
+      internalID: 1794687485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_73
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 162
+        width: 3
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c7595f64a0a494faa88a195e5e11f8
+      internalID: -1335326694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_74
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 165
+        width: 3
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec764b3cc945fab418c7026ffad683cb
+      internalID: 966510632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_75
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 163
+        width: 3
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8bb5ab8d4ca654a86f4f9fbf91e0d1
+      internalID: -1190973747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_76
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 163
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05120b1a0d4d48f45b1916aa23316be1
+      internalID: -1576943805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_77
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 163
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180fcb0a9f8620c44be878c58d497a07
+      internalID: 1726227016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_78
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 164
+        width: 4
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867e5714c59ae334aa24a3b3a045a3b0
+      internalID: -1551047716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_79
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 163
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4728e8fe93e194c4687d4207cd8df240
+      internalID: -93934737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_80
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 165
+        width: 4
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a52a174e8fbed4c946ddbeba9e5dd9
+      internalID: 685349767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_81
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 163
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57400a107e242ad4393b63d4926f8640
+      internalID: 797875712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_82
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 164
+        width: 4
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a3835d704881c46835e9e1d5bdb708
+      internalID: -935119913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_83
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 164
+        width: 4
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca17075125b4314197f69c864bd5fc9
+      internalID: -2143445809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_84
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 164
+        width: 4
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15f14a80ed87824185b00ca127273aa
+      internalID: 1455930712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_85
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 164
+        width: 4
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681827d8b40b09242ac5d6ee8ad9ae3e
+      internalID: -2090015825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_86
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 165
+        width: 4
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e9b86b1bd3c6e4bbd9c18bae216523
+      internalID: -1388883158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_87
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 165
+        width: 5
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a191d0b5147e62142a2a0b343c8809d8
+      internalID: -399283310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_88
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 165
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7def2f31193863b4594182782e090075
+      internalID: -2120456295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_89
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 165
+        width: 4
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fb55f455a0d554d91afe3ea3f736f7
+      internalID: 1461338640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_90
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 164
+        width: 4
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b029eeb506c990049baabcebefe43d70
+      internalID: 1251154220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_91
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 164
+        width: 4
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583f5bf4f909b214d8a9d5938c0509e5
+      internalID: 2007490823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_92
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 164
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ca3e070a72edf459b51bac88b9e540
+      internalID: -2076887363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_93
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 164
+        width: 4
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b358e7fa295cd3c41ac0d130268c714f
+      internalID: 774151786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_94
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 164
+        width: 2
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55aecbae923f09459af151fbd4f0675
+      internalID: -30208686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_95
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 164
+        width: 4
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e01dfe36529cc4badf91de6daf51cc
+      internalID: 531556815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_96
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 164
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e82b089f8bc80498784cbda6215f54
+      internalID: 1980732336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_97
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 164
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b4b30df44aa404ca8d54a1a0d3e657
+      internalID: 653972346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_98
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 163
+        width: 3
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7683ae3bf52d8b34d8ab440bab51598c
+      internalID: -1428706433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_99
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 163
+        width: 3
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c3277950b74b847ae7174ece83ca64
+      internalID: 1802524404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_100
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 163
+        width: 2
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842ca1ecc37864944906d73845aaeae0
+      internalID: 2113748356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_101
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 164
+        width: 2
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7453443b3ca5ce743b59d893ce8989ee
+      internalID: -1953915229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_102
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 165
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5232b7608df3ecf4b87ed54f6b877379
+      internalID: -549679072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_103
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 164
+        width: 2
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0e83d3cd0fd1248a19f6a58f1fb81b
+      internalID: -711016598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_104
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 163
+        width: 3
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1043e2fd502f96342a5a4fdd25c956a5
+      internalID: 2028877456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_105
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 163
+        width: 3
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf542f2bd026da341b9fc9c664751fb2
+      internalID: 68968586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_106
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 164
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfc7bfbebc92f242b6023005d495ae5
+      internalID: 1302690974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_107
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 165
+        width: 3
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5f29d613736e748b7f6ec98872899a
+      internalID: -713720927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_108
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 165
+        width: 3
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff27b7c892af07f489042843b6b4e22a
+      internalID: -1682067735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_109
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 163
+        width: 3
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18d560951887094fa24d251f08e3081
+      internalID: -1080326216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_110
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 164
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66d1bf66bc9d8343949fa0fd870444c
+      internalID: -1223843440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_111
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 164
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68004e1a82f55bd408e10946bd263227
+      internalID: -1784444019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_112
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 164
+        width: 4
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20535951f45bace4a8dd3dfb8e105c1f
+      internalID: 619247607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_113
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 164
+        width: 4
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4f4f7d05a206343a9543e49a97813c
+      internalID: -1405371716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_114
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 164
+        width: 4
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8ae2d718908a3499bbb57d70574ba8
+      internalID: -1249800025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_115
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 164
+        width: 4
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732cb202e30eebb4080205bc3d589b63
+      internalID: -1100634002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_116
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 164
+        width: 2
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d23c9de5e7202248b1bf0f0c209020d
+      internalID: -822552423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_117
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 164
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd0147b37426fa479411f62283d0c66
+      internalID: -1638590255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_118
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 163
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728d42ca1c0059d479d986c70121f255
+      internalID: 1240037937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_119
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 163
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d234f0818d8a7e478cff57fada088cb
+      internalID: 2114776672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_120
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 163
+        width: 3
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ceefb42403d0b1459ac780547b03794
+      internalID: -1652313789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_121
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 163
+        width: 2
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed4f686221b54d42bf8f61acd23759c
+      internalID: -40863667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_122
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 163
+        width: 2
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053808bd123874540a11efa7688666f0
+      internalID: -1728238913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_123
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 163
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8184d8ca9988a46a415a5080357b51
+      internalID: -662671299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_124
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 163
+        width: 3
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86592da94eef9544894c5b1115803dd2
+      internalID: 875624837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_125
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 163
+        width: 3
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2095eae5ef5b64e8083cba48f30b01
+      internalID: 1261562381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_126
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 94
+        width: 2
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3166d7c5b3e4ee4395135bd86c4e3d2
+      internalID: 458926208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_127
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 94
+        width: 2
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd9dea1dc38ed4418ff6052c68cace2
+      internalID: 1069242479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_128
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 94
+        width: 2
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901a63a40e28e3748a2d82f48e0c4432
+      internalID: -1525892467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_129
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 93
+        width: 2
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad655bce565279b40908d2d3bb082d11
+      internalID: -901652892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_130
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 93
+        width: 2
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a595f87f4bc004e820a94bf23ad7de
+      internalID: 685809851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_131
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 94
+        width: 2
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c0c3b8192f80a4aa8b5c9cb35870f5
+      internalID: -2126053508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_132
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 93
+        width: 2
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babbbb04506238a458ec9bed774f4744
+      internalID: -1014959220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_133
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 95
+        width: 1
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d88d6f268d1284991e98a94d2bec9b
+      internalID: 2019492245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_134
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 95
+        width: 1
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4302bc5562a2be540ab5760ec7541f00
+      internalID: 1556454542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_135
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 95
+        width: 1
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f036ed30bbd61af4083e305c86d29a29
+      internalID: 213345360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_136
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 93
+        width: 2
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8223412fb6e8cd459df2c64ec66bc01
+      internalID: 305428946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_137
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 93
+        width: 2
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97fd938b502c60c49b888299e46a2b2e
+      internalID: 2102673163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_138
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 94
+        width: 2
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1169a1f9d9f37f41a31467b73f83777
+      internalID: -500460358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_139
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 95
+        width: 1
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d81f254caba1834a99ab8ce20b86794
+      internalID: -231771839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_140
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 94
+        width: 2
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50b214b6835b8547a9def769cfd24d2
+      internalID: 1492186610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_141
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 94
+        width: 2
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b17574f40d5ad8408001e00ddbaa642
+      internalID: 1235072125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_142
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 94
+        width: 2
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67e8c90d926191458b88a2120275f9e
+      internalID: -1985675702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_143
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 94
+        width: 2
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe254f83e281b5644b38b877da1e6bb6
+      internalID: 34976852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_144
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 93
+        width: 2
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee0e352a16da8d49a9ae629af0260ca
+      internalID: 2130459997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_145
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 93
+        width: 2
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b13a189af48fc4983b3db3bc5d6127
+      internalID: 1108854507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_146
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 93
+        width: 2
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e09c3c50db60744b5e0d68d9206062
+      internalID: -1637006073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_147
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 94
+        width: 2
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f050b2d0d08f24a49bc8846b60aaa727
+      internalID: -1001302907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_148
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 93
+        width: 2
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6410bd46d5fdae4f8b45d08b27b0933
+      internalID: 1914724100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_149
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 96
+        width: 1
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5e67d17ae94474995439da9187a363
+      internalID: 81700411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_150
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 95
+        width: 1
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7a45b9bc9ce4d4397b262b4a58b118
+      internalID: 983441597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_151
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 94
+        width: 1
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a71f17abe6d86d438d4756c77384f02
+      internalID: -2121674304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_152
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 93
+        width: 2
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84a78a3aaf365e408aa71d340511dc0
+      internalID: -1702242091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_153
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 94
+        width: 2
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5825eff0861f9eb48830d60c3f3b5757
+      internalID: 1543881738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_154
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 93
+        width: 2
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41527410fa6873c4fa2b404ceb2538c2
+      internalID: 620213566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_155
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 95
+        width: 1
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12445b875dfba6842950ea40ba250661
+      internalID: 257784361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_156
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 93
+        width: 2
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823e9c400488c2a458a6181396b62230
+      internalID: 1428530336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_157
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 94
+        width: 2
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771b8d71e0d171c4a9aad26705567d6c
+      internalID: -1798571313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_158
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 82
+        width: 2
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76bf7e7859a4b24fa5fa2686589449f
+      internalID: 1922913571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_159
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 82
+        width: 2
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753d392730f6f2547bdc05493280a1a3
+      internalID: 1789130960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_160
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 82
+        width: 2
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e84d61e7123b3c45a9288659f71dc7b
+      internalID: -1623489092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_161
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 81
+        width: 2
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea11548188a950c4e9fd364150e89f60
+      internalID: 1480097917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_162
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 81
+        width: 2
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1d987654f10c34588f0c4a0e40012b
+      internalID: -196575519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_163
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 82
+        width: 2
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e7f67837a76bb4eb356651c9085565
+      internalID: 701516015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_164
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 81
+        width: 2
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1982f0b3fda7b464eb39d06ccb0c0ec7
+      internalID: -1577114392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_165
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 83
+        width: 1
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5920000328cf1c04e8edeb94212747f8
+      internalID: 1979140023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_166
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 83
+        width: 1
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e4f7137317b1d4a9a43928f999db02
+      internalID: 291683756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_167
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 83
+        width: 1
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09cf73436e86e5e4196abf39eb14f719
+      internalID: -1957508131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_168
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 81
+        width: 2
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c4773951c645c47a2046e9ae064b60
+      internalID: -930310922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_169
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 81
+        width: 2
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc0b9ca97b64294cba499b49ab2004f
+      internalID: -636950739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_170
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 82
+        width: 2
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730951b17d7aa704ca620f534f63e250
+      internalID: -328590668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_171
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 83
+        width: 1
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca1b41e9b9aca848b76e21a9c4d9805
+      internalID: -262120419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_172
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 82
+        width: 2
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebb50ff1f0e0cc4bbf4017680557e31
+      internalID: -1589075884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_173
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 82
+        width: 2
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6273aa2e34e08941bc301262af1c43f
+      internalID: 1294339594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_174
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 82
+        width: 2
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da597be3d91f9724087af73b75d78887
+      internalID: -849474269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_175
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 82
+        width: 2
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d70fadeb6e597448a5c483e37e0252
+      internalID: -1186280571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_176
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 81
+        width: 2
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fcfec5a9d182c74da5aaab57af1b728
+      internalID: 1517791107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_177
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 81
+        width: 2
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83da0d16b965a6e43b3ef2ea62c18fab
+      internalID: -1977030302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_178
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 81
+        width: 2
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66939127799cc3b439f56bd68fdf5147
+      internalID: -592866298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_179
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 82
+        width: 2
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f974d29c707fce44bbb967ec8a1002b4
+      internalID: 1635764251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_180
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 81
+        width: 2
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88081c7ec3700224aaea1b7ce985ab33
+      internalID: 1852714248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_181
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 84
+        width: 1
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a660ef2d6df323499c1497cc5b01b15
+      internalID: 1834095697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_182
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 83
+        width: 1
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2ee500a8cb97144bccfdd2cabb8c8f
+      internalID: 398044747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_183
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 82
+        width: 1
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d59e6e132234514fb1307a4bbdaf7c6
+      internalID: 2134090494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_184
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 81
+        width: 2
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5961f4cdeabe1e4686c1f1adc7a4c3b
+      internalID: 1795317848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_185
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 82
+        width: 2
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28d17e5e8d9a494b9ae1f778dc6c451
+      internalID: -1176673562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_186
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 81
+        width: 2
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada0246b31fdc724eaab140af4f8cd01
+      internalID: 1262573320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_187
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 83
+        width: 1
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be611773d8e8a4b44991525f1ee2f7cd
+      internalID: -1106628873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_188
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 81
+        width: 2
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f16ca903c6d5e4d91a00b794979871
+      internalID: -41591426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_189
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 82
+        width: 2
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30edcd9420afa7a41a29966e8ceda454
+      internalID: -1216159096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_190
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 276
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0fde6f66db6b89478ab6ea4a91261fe
+      internalID: 1295562493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_191
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 276
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3decf58cdbb58943b9bdf83a5701765
+      internalID: -1299511286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_192
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 276
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266b22758f12ff34c9fce21dc395cb9a
+      internalID: -195293454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Kid_transparent_v2_193
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 276
+        width: 18
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aba8143c0ca6764cbe9fa9b55e3a0a3
+      internalID: 647519195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4ff81b8c50eeba843abdde26b215bd36
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bow0: 5506316136256956544
+      Bow1: -5276945552246628480
+      Bullet0: -6727655089640597875
+      Bullet1: -6706518417310060714
+      Fall0: -5737874201688016469
+      Fall1: 3969212780905049429
+      'Fall[Stoned]': -8433569387457505299
+      Idle0: -3951364628091787833
+      Idle1: 4267055872105866713
+      Idle2: 6682836032873212771
+      Idle3: -23612479459988563
+      Jump0: -3473963594882579113
+      Jump1: -5061231496092147359
+      PreJump0: -1715680910643622926
+      PreJump1: 8368531434831171519
+      The_Kid_transparent_v2_100: 2113748356
+      The_Kid_transparent_v2_101: -1953915229
+      The_Kid_transparent_v2_102: -549679072
+      The_Kid_transparent_v2_103: -711016598
+      The_Kid_transparent_v2_104: 2028877456
+      The_Kid_transparent_v2_105: 68968586
+      The_Kid_transparent_v2_106: 1302690974
+      The_Kid_transparent_v2_107: -713720927
+      The_Kid_transparent_v2_108: -1682067735
+      The_Kid_transparent_v2_109: -1080326216
+      The_Kid_transparent_v2_110: -1223843440
+      The_Kid_transparent_v2_111: -1784444019
+      The_Kid_transparent_v2_112: 619247607
+      The_Kid_transparent_v2_113: -1405371716
+      The_Kid_transparent_v2_114: -1249800025
+      The_Kid_transparent_v2_115: -1100634002
+      The_Kid_transparent_v2_116: -822552423
+      The_Kid_transparent_v2_117: -1638590255
+      The_Kid_transparent_v2_118: 1240037937
+      The_Kid_transparent_v2_119: 2114776672
+      The_Kid_transparent_v2_120: -1652313789
+      The_Kid_transparent_v2_121: -40863667
+      The_Kid_transparent_v2_122: -1728238913
+      The_Kid_transparent_v2_123: -662671299
+      The_Kid_transparent_v2_124: 875624837
+      The_Kid_transparent_v2_125: 1261562381
+      The_Kid_transparent_v2_126: 458926208
+      The_Kid_transparent_v2_127: 1069242479
+      The_Kid_transparent_v2_128: -1525892467
+      The_Kid_transparent_v2_129: -901652892
+      The_Kid_transparent_v2_130: 685809851
+      The_Kid_transparent_v2_131: -2126053508
+      The_Kid_transparent_v2_132: -1014959220
+      The_Kid_transparent_v2_133: 2019492245
+      The_Kid_transparent_v2_134: 1556454542
+      The_Kid_transparent_v2_135: 213345360
+      The_Kid_transparent_v2_136: 305428946
+      The_Kid_transparent_v2_137: 2102673163
+      The_Kid_transparent_v2_138: -500460358
+      The_Kid_transparent_v2_139: -231771839
+      The_Kid_transparent_v2_140: 1492186610
+      The_Kid_transparent_v2_141: 1235072125
+      The_Kid_transparent_v2_142: -1985675702
+      The_Kid_transparent_v2_143: 34976852
+      The_Kid_transparent_v2_144: 2130459997
+      The_Kid_transparent_v2_145: 1108854507
+      The_Kid_transparent_v2_146: -1637006073
+      The_Kid_transparent_v2_147: -1001302907
+      The_Kid_transparent_v2_148: 1914724100
+      The_Kid_transparent_v2_149: 81700411
+      The_Kid_transparent_v2_150: 983441597
+      The_Kid_transparent_v2_151: -2121674304
+      The_Kid_transparent_v2_152: -1702242091
+      The_Kid_transparent_v2_153: 1543881738
+      The_Kid_transparent_v2_154: 620213566
+      The_Kid_transparent_v2_155: 257784361
+      The_Kid_transparent_v2_156: 1428530336
+      The_Kid_transparent_v2_157: -1798571313
+      The_Kid_transparent_v2_158: 1922913571
+      The_Kid_transparent_v2_159: 1789130960
+      The_Kid_transparent_v2_160: -1623489092
+      The_Kid_transparent_v2_161: 1480097917
+      The_Kid_transparent_v2_162: -196575519
+      The_Kid_transparent_v2_163: 701516015
+      The_Kid_transparent_v2_164: -1577114392
+      The_Kid_transparent_v2_165: 1979140023
+      The_Kid_transparent_v2_166: 291683756
+      The_Kid_transparent_v2_167: -1957508131
+      The_Kid_transparent_v2_168: -930310922
+      The_Kid_transparent_v2_169: -636950739
+      The_Kid_transparent_v2_170: -328590668
+      The_Kid_transparent_v2_171: -262120419
+      The_Kid_transparent_v2_172: -1589075884
+      The_Kid_transparent_v2_173: 1294339594
+      The_Kid_transparent_v2_174: -849474269
+      The_Kid_transparent_v2_175: -1186280571
+      The_Kid_transparent_v2_176: 1517791107
+      The_Kid_transparent_v2_177: -1977030302
+      The_Kid_transparent_v2_178: -592866298
+      The_Kid_transparent_v2_179: 1635764251
+      The_Kid_transparent_v2_18: 1646963351683675543
+      The_Kid_transparent_v2_180: 1852714248
+      The_Kid_transparent_v2_181: 1834095697
+      The_Kid_transparent_v2_182: 398044747
+      The_Kid_transparent_v2_183: 2134090494
+      The_Kid_transparent_v2_184: 1795317848
+      The_Kid_transparent_v2_185: -1176673562
+      The_Kid_transparent_v2_186: 1262573320
+      The_Kid_transparent_v2_187: -1106628873
+      The_Kid_transparent_v2_188: -41591426
+      The_Kid_transparent_v2_189: -1216159096
+      The_Kid_transparent_v2_19: -4416785422990863356
+      The_Kid_transparent_v2_190: 1295562493
+      The_Kid_transparent_v2_191: -1299511286
+      The_Kid_transparent_v2_192: -195293454
+      The_Kid_transparent_v2_193: 647519195
+      The_Kid_transparent_v2_30: 8515749747273685346
+      The_Kid_transparent_v2_31: -6249182462901668891
+      The_Kid_transparent_v2_32: 6398645426417957952
+      The_Kid_transparent_v2_34: -5503319250503175527
+      The_Kid_transparent_v2_35: 3880110446855971237
+      The_Kid_transparent_v2_36: 7616448224628144820
+      The_Kid_transparent_v2_37: 4100308115881054863
+      The_Kid_transparent_v2_38: 824357941551707962
+      The_Kid_transparent_v2_39: 879993434687301565
+      The_Kid_transparent_v2_40: -7212388753611522719
+      The_Kid_transparent_v2_41: 4418584145290242869
+      The_Kid_transparent_v2_42: -6570191106612298859
+      The_Kid_transparent_v2_43: -1129692359195988132
+      The_Kid_transparent_v2_44: -944159760318943890
+      The_Kid_transparent_v2_45: -9094784031859980892
+      The_Kid_transparent_v2_46: 6831561778740092786
+      The_Kid_transparent_v2_47: -1322761303
+      The_Kid_transparent_v2_48: 947266773
+      The_Kid_transparent_v2_49: -1365757814
+      The_Kid_transparent_v2_50: -366382474
+      The_Kid_transparent_v2_51: -947733891
+      The_Kid_transparent_v2_52: 902242047
+      The_Kid_transparent_v2_53: -336526233
+      The_Kid_transparent_v2_54: -81771411
+      The_Kid_transparent_v2_55: -857224365
+      The_Kid_transparent_v2_56: 546257709
+      The_Kid_transparent_v2_57: -1775735513
+      The_Kid_transparent_v2_58: -1181888200
+      The_Kid_transparent_v2_59: -862848257
+      The_Kid_transparent_v2_60: 691619663
+      The_Kid_transparent_v2_61: -763738887
+      The_Kid_transparent_v2_62: -831946647
+      The_Kid_transparent_v2_63: -1410119993
+      The_Kid_transparent_v2_64: 1118229374
+      The_Kid_transparent_v2_65: -490663487
+      The_Kid_transparent_v2_66: -2018608652
+      The_Kid_transparent_v2_67: 432812482
+      The_Kid_transparent_v2_68: 758990162
+      The_Kid_transparent_v2_69: -1841309730
+      The_Kid_transparent_v2_70: -530735237
+      The_Kid_transparent_v2_71: -288135202
+      The_Kid_transparent_v2_72: 1794687485
+      The_Kid_transparent_v2_73: -1335326694
+      The_Kid_transparent_v2_74: 966510632
+      The_Kid_transparent_v2_75: -1190973747
+      The_Kid_transparent_v2_76: -1576943805
+      The_Kid_transparent_v2_77: 1726227016
+      The_Kid_transparent_v2_78: -1551047716
+      The_Kid_transparent_v2_79: -93934737
+      The_Kid_transparent_v2_80: 685349767
+      The_Kid_transparent_v2_81: 797875712
+      The_Kid_transparent_v2_82: -935119913
+      The_Kid_transparent_v2_83: -2143445809
+      The_Kid_transparent_v2_84: 1455930712
+      The_Kid_transparent_v2_85: -2090015825
+      The_Kid_transparent_v2_86: -1388883158
+      The_Kid_transparent_v2_87: -399283310
+      The_Kid_transparent_v2_88: -2120456295
+      The_Kid_transparent_v2_89: 1461338640
+      The_Kid_transparent_v2_90: 1251154220
+      The_Kid_transparent_v2_91: 2007490823
+      The_Kid_transparent_v2_92: -2076887363
+      The_Kid_transparent_v2_93: 774151786
+      The_Kid_transparent_v2_94: -30208686
+      The_Kid_transparent_v2_95: 531556815
+      The_Kid_transparent_v2_96: 1980732336
+      The_Kid_transparent_v2_97: 653972346
+      The_Kid_transparent_v2_98: -1428706433
+      The_Kid_transparent_v2_99: 1802524404
+      Walk0: 2793099778487611141
+      Walk1: 1665475421466477003
+      Walk2: 7372664823586680953
+      Walk3: 1859844001253059962
+      Walk4: -6517003884753691111
+      Walk5: 9182177950788437132
+      WalkB_0: 2374115010527658022
+      WalkB_1: 7489603785191117588
+      WalkF_0: -3631767605927649090
+      WalkF_1: -4693575378535722387
+      WalkF_2: 3111625020959765434
+      WalkF_3: -4580796152084068188
+      WallJump0: -435500512031162737
+      WallJump1: -6496293232745775112
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
