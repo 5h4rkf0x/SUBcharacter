@@ -27,7 +27,7 @@ public class SaveManager : MonoBehaviour
 
     public string path;
 
-    private void Awake()
+    private void Awake() // ëŒ€ì¶© ì„¸ì´ë¸Œ ë¶ˆëŸ¬ì˜¤ê¸°ì¸ë“¯;
     {
         path = Path.Combine(Application.dataPath, "Save.json");
 
@@ -38,8 +38,8 @@ public class SaveManager : MonoBehaviour
 
     public void UpdateData(Vector3 playerPos, Vector3 cameraPos)
     {
-        currentData.lastScene = SceneManager.GetActiveScene().name;
-        currentData.playerPos = playerPos;
+        currentData.lastScene = SceneManager.GetActiveScene().name; // ë§ˆì§€ë§‰ì— ì‹¤í–‰ëœ ì”¬ì„ ì €ì¥
+        currentData.playerPos = playerPos; // ë§ˆì§€ë§‰ì˜ í”Œë ˆì´ì–´ì¢Œí‘œë‘ ì¹´ë©”ë¼ ì¢Œí‘œ ì„¸íŒ…
         currentData.cameraPos = cameraPos;
     }
 
@@ -49,7 +49,6 @@ public class SaveManager : MonoBehaviour
         SaveFile saveFile;
         if (!File.Exists(path))
         {
-            // °æ·Î¿¡ ÆÄÀÏ ¾øÀ» ½Ã ÇÃ·¹ÀÌ¾î ¹× Ä«¸Ş¶ó ÃÊ±â À§Ä¡
             currentData.lastScene = "Stage1";
             currentData.playerPos = initPlayerPos;
             currentData.cameraPos = initCameraPos;
@@ -61,7 +60,6 @@ public class SaveManager : MonoBehaviour
 
             if (saveFile == null || saveFile.slot == null)
             {
-                // ¼¼ÀÌºê ÆÄÀÏ ÆÄ½Ì ½ÇÆĞ½Ã ÇÃ·¹ÀÌ¾î ¹× Ä«¸Ş¶ó ÃÊ±â À§Ä¡
                 currentData.lastScene = "Stage1";
                 currentData.playerPos = initPlayerPos;
                 currentData.cameraPos = initCameraPos;

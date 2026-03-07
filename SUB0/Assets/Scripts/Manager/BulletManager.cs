@@ -48,6 +48,7 @@ public class BulletManager : MonoBehaviour
 
     public void Hit(Vector3 pos)
     {
+        // 총알은 최대 15개까지, 해당 번호의 총알의 위치정보를 저장하고 활성화
         int index = hitIndex;
         hitIndex = (hitIndex + 1) % bulletCount;
         hitPool[index].transform.position = pos;

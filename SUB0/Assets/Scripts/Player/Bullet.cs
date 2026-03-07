@@ -17,6 +17,7 @@ public class Bullet : MonoBehaviour
 
     public void Init(Vector2 dir)
     {
+        // 총알이 발사될 때 효과음 출력 및 총알의 이동속도 설정
         GameManager.instance.audioSource.PlayOneShot(shot);
         dir = dir.normalized;
         rigid.linearVelocity = dir * speed;
@@ -24,6 +25,7 @@ public class Bullet : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
+        // 어떤태그에 부딧혔는가에 대한 불값을 저장하고 해당 총알을 비활성화 및 활성화된 총알의 개수 -1
         bool border = collision.gameObject.CompareTag("Border");
         bool terrain = collision.gameObject.CompareTag("Terrain");
         bool enemy = collision.gameObject.CompareTag("Enemy");

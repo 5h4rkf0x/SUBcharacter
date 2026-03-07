@@ -7,15 +7,13 @@ public class Button : MonoBehaviour
 
     public void StartGame()
     {
-        Debug.Log("StartGame");
-        SceneManager.LoadScene(save.currentData.lastScene);
-        // ½ºÅ×ÀÌÁö 1À¸·Î ¾À º¯È¯ ÄÚµå ³ÖÀ¸¸é µÊ
+        Debug.Log("StartGame"); // í•˜ë‹¨ì— ì½˜ì†” ì°íˆëŠ”ê±°
+        SceneManager.LoadScene(save.currentData.lastScene); // ì™¸ë¶€íŒŒì¼ì— ìˆëŠ” ì„¸ì´ë¸Œ íŒŒì¼ì„ ê°€ì ¸ì™€ì„œ í•´ë‹¹í•˜ëŠ” ì”¬ í˜¸ì¶œ
     }
 
     public void ExitGame()
     {
-        Debug.Log("ExitGame");
-        Application.Quit();
-        // ¼¼ÀÌºê ÆÄÀÏµµ »èÁ¦ÇØ¾ßÇÏ³ª?
+        Debug.Log("ExitGame"); // í•˜ë‹¨ì— ì½˜ì†” 22
+        Application.Quit(); // ì•± êº¼ë²„ë¦¬ëŠ”ê±°?
     }
 }

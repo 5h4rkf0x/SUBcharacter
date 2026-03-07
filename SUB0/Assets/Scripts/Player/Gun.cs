@@ -11,27 +11,18 @@ public class Gun : MonoBehaviour
     public GunDirection dir;
     public bool facingRight;
 
-
-    private void Awake()
-    {
-    }
-
-    private void Update()
-    {
-        
-    }
-
     public void Fire()
     {
         BulletManager bm = GameManager.instance.bulletManager;
         Rigidbody2D p = GameManager.instance.player.rigid;
 
         float gravityScale = p.gravityScale * (1 / Mathf.Abs(p.gravityScale));
-
+        
+        // 플레이어가 각각 어떤 행동, 어떤 방향을 총구로 가르키고 있는지에 따라 각각 총알의 발사 각도 설정
         switch(dir)
         {
             case GunDirection.UP:
-                if (facingRight)
+                if (facingRight) // 플레이어가 우측을 보고 있는가?
                 {
                     transform.localPosition = gunPos.lookUp_Right;
                     bm.GetBullet(transform.position, Vector2.up * gravityScale);
@@ -42,8 +33,8 @@ public class Gun : MonoBehaviour
                     bm.GetBullet(transform.position, Vector2.up * gravityScale);
                 }
                 break;
-            case GunDirection.DOWN:
-                if (facingRight)
+            case GunDirection.DOWN: // 공중에 뜬 상태에서 아래 방향키를 누른 상태
+                if (facingRight) // 플레이어가 우측을 보고 있는가?
                 {
                     transform.localPosition = gunPos.shootDown_Right;
                     bm.GetBullet(transform.position, Vector2.down * gravityScale);
@@ -55,7 +46,7 @@ public class Gun : MonoBehaviour
                 }
                 break;
             case GunDirection.STAND:
-                if (facingRight)
+                if (facingRight) // 플레이어가 우측을 보고 있는가?
                 {
                     transform.localPosition = gunPos.idle_Right;
                     bm.GetBullet(transform.position, Vector2.right);
@@ -67,7 +58,7 @@ public class Gun : MonoBehaviour
                 }
                 break;
             case GunDirection.CROUCH:
-                if (facingRight)
+                if (facingRight) // 플레이어가 우측을 보고 있는가?
                 {
                     transform.localPosition = gunPos.crouch_Right;
                     bm.GetBullet(transform.position, Vector2.right);
