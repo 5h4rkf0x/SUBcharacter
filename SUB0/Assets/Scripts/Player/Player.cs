@@ -71,7 +71,7 @@ public class Player : MonoBehaviour
         TerrainCollision();
         AnimationControl();
         GunPosSet();
-        if (isGround)   // 지상점프가 조금 더 수월하게 될 수 있도록 0.15초의 유예 시간 후 isGround false --> 구현 안된 듯? 문제가 있었거나 그렇대
+        if (isGround)   // 지상점프가 조금 더 수월하게 될 수 있도록 0.15초의 유예 시간 후 isGround false --> OnJump에서 사용
         {
             coyoteTimeCounter = coyoteTime;
         }
@@ -212,38 +212,38 @@ public class Player : MonoBehaviour
     }
 
     #region EventFunc
-    private void OnCollisionEnter2D(Collision2D collision)
+    private void OnCollisionEnter2D(Collision2D collision) // 보스전에서의 보스의 공격을 맞으면 플레이어 사망처리
     {
 
         Debug.Log("�浹����");
 
-        if (collision.gameObject.CompareTag("Obstacle"))
+        if (collision.gameObject.CompareTag("Obstacle")) // 보스의 공격은 Obstacle 태그를 포함하고 있음
         {
             Death();
         }
     }
 
-    private void OnCollisionExit2D(Collision2D collision)
+    private void OnCollisionExit2D(Collision2D collision) // 공중 판정
     {
-        if (!collision.gameObject.CompareTag("Terrain"))
+        if (!collision.gameObject.CompareTag("Terrain")) // 공중에 있다면
             return;
 
         isGround = false;
     
     }
 
-    private void OnTriggerEnter2D(Collider2D collision)
+    private void OnTriggerEnter2D(Collider2D collision) // 보스전에서 보스의 공격에 맞았는지와 물 속에 있는가를 판정
     {
-        if (collision.CompareTag("Obstacle"))
+        if (collision.CompareTag("Obstacle")) // 보스의 공격은 Obstacle 태그를 포함하고 있음
         {
             Death();
 
         }
-        else if (collision.CompareTag("Water"))
+        else if (collision.CompareTag("Water")) // 물속에 있다면
         {
-            state = PlayerState.Water;
-            rigid.linearVelocityY *= 0.3f;
-            canAirJump = true;
+            state = PlayerState.Water; // 플레이어의 위치 속성 변환
+            rigid.linearVelocityY *= 0.3f; // 물의 저항 구현
+            canAirJump = true; // 물에 있으면 계속 점프 가능 --> 수면 위로 올라오게끔
         }
         
     }
@@ -285,21 +285,21 @@ public class Player : MonoBehaviour
         moveVec = input;
     }
 
-    public void OnJump(InputAction.CallbackContext context)
+    public void OnJump(InputAction.CallbackContext context) // 점프 관련 함수
     {
-        if (!(isGround || canAirJump || isDead))
+        if (!(isGround || canAirJump || isDead)) // 공중이지 않거나, 공중점프 불가능상태이거나, 죽어있지 않다면 무시
             return;
 
-        if(context.performed)
+        if(context.performed) // 점프키를 입력하였을 때 
         {
 
-            if(isGround && coyoteTimeCounter>0)
+            if(isGround || coyoteTimeCounter>0) // 땅에 닿아 있을 때 및 0.15초의 유예
             {
                 Debug.Log("1�� ����");
-                isGround = false;
+                isGround = false; // 점프를 눌렀기 때문에 공중임 --> isGround를 false로 변경
                 animator.SetTrigger("1stJump");
-                GameManager.instance.audioSource.PlayOneShot(jump[0]);
-                if(state != PlayerState.Water)
+                GameManager.instance.audioSource.PlayOneShot(jump[0]); // 점프 사운드 한번 출력
+                if(state != PlayerState.Water) // 물이 존재하는 스테이지
                 {
                     rigid.linearVelocityY = jumpSpeeds[0] * (rigid.gravityScale * (1/Mathf.Abs(rigid.gravityScale)));
                 }
@@ -309,14 +309,14 @@ public class Player : MonoBehaviour
                 }
                 
             }
-            else if(canAirJump) 
+            else if(canAirJump) // canAirJump가 체크되어있다면 점프 (공중 점프)
             {
                 Debug.Log("2�� ����");
-                GameManager.instance.audioSource.PlayOneShot(jump[1]);
-                if (state != PlayerState.Water)
+                GameManager.instance.audioSource.PlayOneShot(jump[1]); // 점프 사운드 한번 출력
+                if (state != PlayerState.Water) // 물이 존재하는 스테이지
                 {
                     animator.SetTrigger("2ndJump");
-                    canAirJump = false;
+                    canAirJump = false; // 공중점프 소모
                     rigid.linearVelocityY = jumpSpeeds[1] * (rigid.gravityScale * (1 / Mathf.Abs(rigid.gravityScale)));
                 }
                 else
@@ -329,7 +329,7 @@ public class Player : MonoBehaviour
             }
             
         }
-        if(context.canceled)
+        if(context.canceled) // 점프키를 뗐을 때
         {
             if(rigid.linearVelocityY > 0)
             {
@@ -370,11 +370,11 @@ public class Player : MonoBehaviour
 
     public void OnShoot(InputAction.CallbackContext context) // 사격 중 인가?
     {
-        if (context.performed)
+        if (context.performed) // 사격 키 입력하였을 때
         {
             shot = StartCoroutine(Shooting());
         }
-        else if(context.canceled)
+        else if(context.canceled) // 사격 키를 땠을 때
         {
             StopCoroutine(shot);
             shot = null;
