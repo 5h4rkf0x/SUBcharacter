@@ -44,7 +44,7 @@ public class BulletShooter : MonoBehaviour, IResetable
 
     public void Init()
     {
-        gameObject.SetActive(false);
+        gameObject.SetActive(false); // ?? init에서 왜 비활성화를 ?
     }
 
     public void Launch(Vector3 position)
@@ -61,17 +61,17 @@ public class BulletShooter : MonoBehaviour, IResetable
         bool terrain = collision.CompareTag("Terrain");
         bool obstacle = collision.CompareTag("Obstacle");
         bool enemy = collision.CompareTag("Enemy");
-        if (player)
+        if (player) // 플레이어라면
         {
             gameObject.SetActive(false);
-            collision.GetComponent<Player>().Death();
+            collision.GetComponent<Player>().Death(); // 플레이어 사망처리
         }
-        else if (enemy)
+        else if (enemy) // 적이라면
         {
             gameObject.SetActive(false);
-            collision.gameObject.SetActive(false);
+            collision.gameObject.SetActive(false); // 부딧힌 객체 비활설화
         }
-        else if (terrain || obstacle)
+        else if (terrain || obstacle) // 땅이거나 보스의 공격에 해당하는 오브젝트라면
         {
             gameObject.SetActive(false);
         }
