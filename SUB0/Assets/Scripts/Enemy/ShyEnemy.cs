@@ -26,10 +26,10 @@ public class ShyEnemy : MonoBehaviour,IResetable
     {
         bool playerFacingRight = GameManager.instance.player.gun.facingRight;
 
-        if (scanner.nearestTarget)
+        if (scanner.nearestTarget) // 가까운 타겟
         {
-            direction = (scanner.nearestTarget.position - transform.position).normalized;
-            if(playerFacingRight)
+            direction = (scanner.nearestTarget.position - transform.position).normalized; // 방향
+            if(playerFacingRight)  // 플레이어가 바라보는 방향과 ShyEnemy의 진행방향에 따른 스프라이트 이미지 정렬 및 이동
             {
                 if(direction.x >0)
                 {
@@ -59,7 +59,7 @@ public class ShyEnemy : MonoBehaviour,IResetable
 
             }
         }
-        else
+        else // 왜 플레이어가 ShyEnemy보다 왼쪽으로 갔을때 오류가 생기지 않는가??
         {
             rigid.linearVelocity = Vector2.zero;
         }
@@ -67,7 +67,7 @@ public class ShyEnemy : MonoBehaviour,IResetable
 
     public void Init()
     {
-        // 컴포넌트가 없으면 확보
+        // 컴포넌트가 없으면 확보 --> if 구문의 존재 이유?
         if (sprite == null) sprite = GetComponent<SpriteRenderer>();
         if (rigid == null) rigid = GetComponent<Rigidbody2D>();
         if (scanner == null) scanner = GetComponent<Scanner>();
@@ -78,9 +78,9 @@ public class ShyEnemy : MonoBehaviour,IResetable
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (!collision.CompareTag("Player"))
+        if (!collision.CompareTag("Player")) // 플레이어와 부딧힌게 아니라면 무시
             return;
 
-        collision.GetComponent<Player>().Death();
+        collision.GetComponent<Player>().Death(); // 플레이어 사망 처리
     }
 }
