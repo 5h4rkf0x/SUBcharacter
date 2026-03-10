@@ -20,34 +20,34 @@ public class GameManager : MonoBehaviour
 
         if (cam == null)
         {
-            cam = Camera.main;
+            cam = Camera.main;  // 카메라가 비어있으면 추가해주는건데 어디에 있는걸 추가해주는거임??
         }
-        instance = this;
+        instance = this; // 이건 뭘 해주는건가?
 
-        audioSource = GetComponent<AudioSource>();
+        audioSource = GetComponent<AudioSource>(); // 오디오 객체 가져오기
 
         Instantiate(playerPrefap, gameObject.transform,true);
-        player = GetComponentInChildren<Player>();
+        player = GetComponentInChildren<Player>(); // 플레이어 객체 가져오기
     }
 
     private void Start()
     {
-        cam.transform.position = saveManager.currentData.cameraPos;
+        cam.transform.position = saveManager.currentData.cameraPos; // 현재의 카메라의 위치를 세이브 파일의 카메라 위치로 변경
     }
 
     private void Update()
     {
-        Restart();
+        Restart(); // 매 프레임마다 r키를 눌렀는지 확인
     }
 
     void Restart()
     {
-        if (Input.GetKeyDown(KeyCode.R))
+        if (Input.GetKeyDown(KeyCode.R)) // r키를 눌렀는가?
         {
-            BGM.Play();
-            player.Init(saveManager.currentData.playerPos);
-            cam.transform.position = saveManager.currentData.cameraPos;
-            mapManager.Init();
+            BGM.Play(); // 브금 초기화
+            player.Init(saveManager.currentData.playerPos); // 플레이어 초기화
+            cam.transform.position = saveManager.currentData.cameraPos; // 카메라 초기화
+            mapManager.Init(); // 맵 초기화
         }
     }
 }

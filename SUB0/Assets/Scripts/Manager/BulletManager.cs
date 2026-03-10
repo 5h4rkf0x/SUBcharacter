@@ -34,7 +34,7 @@ public class BulletManager : MonoBehaviour
 
     public void GetBullet(Vector2 pos, Vector2 dir)
     {
-        if (activeBullet >= maxActiveBullet)
+        if (activeBullet >= maxActiveBullet) // 현재 활성화된 총알의 갯수가 최대의 총알 개수 이상이면 무시
             return;
 
         GameObject bullet = bulletPool[bulletIndex];
