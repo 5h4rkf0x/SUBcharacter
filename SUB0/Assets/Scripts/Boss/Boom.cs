@@ -10,6 +10,6 @@ public class Boom : MonoBehaviour
 
     public void OnAnimationStart()
     {
-        GameManager.instance.audioSource.PlayOneShot(boom);
+        GameManager.instance.audioSource.PlayOneShot(boom); // 효과음 출력
     }
 }

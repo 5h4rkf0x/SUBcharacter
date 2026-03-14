@@ -18,12 +18,12 @@ public class GhostPool : MonoBehaviour,IResetable
         }
     }
 
-    public void Init()
+    public void Init() // IResetable 필수 함수
     {
         index = 0;
         for(int i = 0; i< size; i++)
         {
-            pools[i].SetActive(false);
+            pools[i].SetActive(false); // 전체 비활성화
         }
     }
 

@@ -683,7 +683,7 @@ MonoBehaviour:
   maxHealth: 400
   engage: 0
   attacking: 1
-  isDead: 1
+  isDead: 0
 --- !u!114 &8809329415694599770
 MonoBehaviour:
   m_ObjectHideFlags: 0
