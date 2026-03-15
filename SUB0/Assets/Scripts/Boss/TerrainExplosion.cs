@@ -16,25 +16,25 @@ public class TerrainExplosion : MonoBehaviour, IResetable
     {
         for (int i = 0; i < poolSize; i++)
         {
-            lineWarning.Add(Instantiate(markPrefap, transform));
-            lineExplode.Add(Instantiate(boomPrefap, transform));
+            lineWarning.Add(Instantiate(markPrefap, transform)); // boss scene -> boss stage prefab -> terrain explosion
+            lineExplode.Add(Instantiate(boomPrefap, transform)); // boss scene -> boss stage prefab -> terrain explosion
 
-            lineWarning[i].SetActive(false);
-            lineExplode[i].SetActive(false);
+            lineWarning[i].SetActive(false); // 아직 비활성화
+            lineExplode[i].SetActive(false); // 아직 비활성화
         }
     }
 
-    public void Stop()
+    public void Stop() // 패턴 중지
     {
-        StopAllCoroutines();
+        StopAllCoroutines(); // 패턴 중지
         for (int i = 0; i < poolSize; i++)
         {
-            lineWarning[i].SetActive(false);
-            lineExplode[i].SetActive(false);
+            lineWarning[i].SetActive(false); // 비활성화
+            lineExplode[i].SetActive(false); // 비활성화
         }
     }
 
-    public void Init()
+    public void Init() // 보스 패턴 초기화
     {
         index = 0;
         for(int i =0; i<poolSize; i++)
@@ -61,6 +61,5 @@ public class TerrainExplosion : MonoBehaviour, IResetable
         yield return new WaitForSeconds(0.3f);
 
         lineExplode[currentIndex].SetActive(false);
-
     }
 }

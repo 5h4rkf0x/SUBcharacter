@@ -20,9 +20,9 @@ public class GameManager : MonoBehaviour
 
         if (cam == null)
         {
-            cam = Camera.main;  // 카메라가 비어있으면 추가해주는건데 어디에 있는걸 추가해주는거임??
+            cam = Camera.main;  // GameManager 객체 자체 대입(MainCamera 태그 확인)
         }
-        instance = this; // 이건 뭘 해주는건가?
+        instance = this; // 실행시킨 객체를 instance 전역변수에 저장, GameManager.instance. 사용할때 탐색을 안해도 되게끔 해줌
 
         audioSource = GetComponent<AudioSource>(); // 오디오 객체 가져오기
 

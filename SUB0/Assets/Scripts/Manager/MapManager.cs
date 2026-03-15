@@ -3,8 +3,6 @@ using NUnit.Framework;
 using UnityEngine;
 
 
-// 유니티 엔진이랑 같이보래 ㅠ X됨 ㅠ
-
 public class MapManager : MonoBehaviour
 {
     public List<GameObject> prefaps;
@@ -14,7 +12,7 @@ public class MapManager : MonoBehaviour
     {
         for(int i = 0; i<prefaps.Count; i++)
         {
-            maps.Add(Instantiate(prefaps[i], gameObject.transform,true)); // 부캐형한테 List 설명 받고 보면 알듯? --> X됨
+            maps.Add(Instantiate(prefaps[i], gameObject.transform,true)); // 유니티 엔진에 있는 스크립트에 있는 prefabs 배열에 저장된 프리펩들의 클론 객체들을 maps라는 배열에 저장함
         }
     }
 
