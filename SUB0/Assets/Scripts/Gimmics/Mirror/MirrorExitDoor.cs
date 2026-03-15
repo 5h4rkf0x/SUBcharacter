@@ -39,7 +39,7 @@ public class MirrorExitDoor : MonoBehaviour, IResetable
         if (doorCollider != null) doorCollider.enabled = true;
     }
 
-    public void OpenDoor()
+    public void OpenDoor() // 거울 문도 열려야함
     {
         if (isOpen) return;
 

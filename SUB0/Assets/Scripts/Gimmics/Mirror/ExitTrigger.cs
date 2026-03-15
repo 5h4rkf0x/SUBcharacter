@@ -10,18 +10,18 @@ public class ExitTrigger : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
-            if (exitDoor != null && exitDoor.IsOpen)
+            if (exitDoor != null && exitDoor.IsOpen) // 문이 열려있는가?
             {
                 Debug.Log("[MirrorExitTrigger] 출구 문에 닿음 - 미러 제거 및 보스씬 이동 준비");
 
                 // 미러 제거
-                if (exitDoor.mirrorTrigger != null)
+                if (exitDoor.mirrorTrigger != null) // 거울기믹
                 {
-                    exitDoor.mirrorTrigger.Init();
+                    exitDoor.mirrorTrigger.Init(); // 거울 플레이어 삭제
                     Debug.Log("[MirrorExitTrigger] 미러플레이어 제거 완료");
                 }
 
-                SceneManager.LoadScene(exitDoor.bossSceneName);
+                SceneManager.LoadScene(exitDoor.bossSceneName); // 보스 스테이지로
             }
             else
             {
