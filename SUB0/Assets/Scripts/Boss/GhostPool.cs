@@ -27,7 +27,7 @@ public class GhostPool : MonoBehaviour,IResetable
         }
     }
 
-    public void SpawnGhost(Sprite sprite, Vector3 position, Vector3 scale, float lifetime)
+    public void SpawnGhost(Sprite sprite, Vector3 position, Vector3 scale, float lifetime) // GhostTrail.cs
     {
         pools[index].SetActive(true);
         SpriteRenderer sr = pools[index].GetComponent<SpriteRenderer>();

@@ -44,7 +44,7 @@ public class TerrainExplosion : MonoBehaviour, IResetable
         }
     }
 
-    public IEnumerator LineExplosion(Vector3 pos)
+    public IEnumerator LineExplosion(Vector3 pos) // Boss.cs "안올라가곤 못배길걸"
     {
         int currentIndex = index;
         index = (index + 1) % poolSize;

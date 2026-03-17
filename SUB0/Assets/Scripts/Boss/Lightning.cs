@@ -21,7 +21,7 @@ public class Lightning : MonoBehaviour,IResetable
     int blueIndex = 0;
 
 
-    private void Start()
+    private void Start() // 시작 초기화
     {
         for(int i = 0; i< poolSize; i++)
         {
@@ -37,7 +37,7 @@ public class Lightning : MonoBehaviour,IResetable
         }
     }
 
-    public void Stop()
+    public void Stop() // 죽었을때 초기화?
     {
         StopAllCoroutines();
         yellowIndex = 0;
@@ -51,7 +51,7 @@ public class Lightning : MonoBehaviour,IResetable
         }
     }
 
-    public void Init()
+    public void Init() // r 누를때 초기화
     {
         StopAllCoroutines();
         yellowIndex = 0;

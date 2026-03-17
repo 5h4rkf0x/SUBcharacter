@@ -23,7 +23,7 @@ public class GhostTrail : MonoBehaviour
         timer += Time.deltaTime;
         if(timer >= spawnInterval)
         {
-            pool.SpawnGhost(sprite.sprite, transform.position, transform.localScale, 0.3f);
+            pool.SpawnGhost(sprite.sprite, transform.position, transform.localScale, 0.3f); // 0.3초동안 서서히 사라지는 보스의 잔상 생성
             timer = 0f;
         }
     }
