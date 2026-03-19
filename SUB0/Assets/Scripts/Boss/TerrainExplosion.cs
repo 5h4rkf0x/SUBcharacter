@@ -44,15 +44,7 @@ public class TerrainExplosion : MonoBehaviour, IResetable
         }
     }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
     public IEnumerator LineExplosion(Vector3 pos) // 지형폭발 패턴 --> boss.cs impact()
-=======
-    public IEnumerator LineExplosion(Vector3 pos) // Boss.cs "안올라가곤 못배길걸"
->>>>>>> 331f0fa70f56fbd1683b968e9589f050f21e3f2e
-=======
-    public IEnumerator LineExplosion(Vector3 pos) // Boss.cs "안올라가곤 못배길걸"
->>>>>>> 331f0fa70f56fbd1683b968e9589f050f21e3f2e
     {
         int currentIndex = index;
         index = (index + 1) % poolSize; // 순환 인덱스

@@ -37,15 +37,7 @@ public class Lightning : MonoBehaviour,IResetable
         }
     }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-    public void Stop() // 정지 함수 --> 초기화
-=======
     public void Stop() // 죽었을때 초기화?
->>>>>>> 331f0fa70f56fbd1683b968e9589f050f21e3f2e
-=======
-    public void Stop() // 죽었을때 초기화?
->>>>>>> 331f0fa70f56fbd1683b968e9589f050f21e3f2e
     {
         StopAllCoroutines(); // 실행중인 모든 코루틴 정지
         yellowIndex = 0; 
@@ -58,16 +50,8 @@ public class Lightning : MonoBehaviour,IResetable
             blueLazer[i].SetActive(false);
         }
     }
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-    public void Init() // IResetable 필수 함수 --> 초기화
-=======
+    
     public void Init() // r 누를때 초기화
->>>>>>> 331f0fa70f56fbd1683b968e9589f050f21e3f2e
-=======
-    public void Init() // r 누를때 초기화
->>>>>>> 331f0fa70f56fbd1683b968e9589f050f21e3f2e
     {
         StopAllCoroutines();
         yellowIndex = 0;

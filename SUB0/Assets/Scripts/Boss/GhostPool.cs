@@ -27,15 +27,7 @@ public class GhostPool : MonoBehaviour,IResetable
         }
     }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-    public void SpawnGhost(Sprite sprite, Vector3 position, Vector3 scale, float lifetime) // 보스 잔상 관리 함수
-=======
     public void SpawnGhost(Sprite sprite, Vector3 position, Vector3 scale, float lifetime) // GhostTrail.cs
->>>>>>> 331f0fa70f56fbd1683b968e9589f050f21e3f2e
-=======
-    public void SpawnGhost(Sprite sprite, Vector3 position, Vector3 scale, float lifetime) // GhostTrail.cs
->>>>>>> 331f0fa70f56fbd1683b968e9589f050f21e3f2e
     {
         pools[index].SetActive(true); // 잔상 활성화
         SpriteRenderer sr = pools[index].GetComponent<SpriteRenderer>();
