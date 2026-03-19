@@ -39,27 +39,35 @@ public class TerrainExplosion : MonoBehaviour, IResetable
         index = 0;
         for(int i =0; i<poolSize; i++)
         {
-            lineWarning[i].SetActive(false);
-            lineExplode[i].SetActive(false);
+            lineWarning[i].SetActive(false); // 경고 표시 준비
+            lineExplode[i].SetActive(false); // 공격 표시 준비
         }
     }
 
-    public IEnumerator LineExplosion(Vector3 pos)
+<<<<<<< HEAD
+<<<<<<< HEAD
+    public IEnumerator LineExplosion(Vector3 pos) // 지형폭발 패턴 --> boss.cs impact()
+=======
+    public IEnumerator LineExplosion(Vector3 pos) // Boss.cs "안올라가곤 못배길걸"
+>>>>>>> 331f0fa70f56fbd1683b968e9589f050f21e3f2e
+=======
+    public IEnumerator LineExplosion(Vector3 pos) // Boss.cs "안올라가곤 못배길걸"
+>>>>>>> 331f0fa70f56fbd1683b968e9589f050f21e3f2e
     {
         int currentIndex = index;
-        index = (index + 1) % poolSize;
+        index = (index + 1) % poolSize; // 순환 인덱스
 
-        lineWarning[currentIndex].transform.position = new Vector3(0, pos.y, 0);
+        lineWarning[currentIndex].transform.position = new Vector3(0, pos.y, 0); // 경고 표시 출력
         lineWarning[currentIndex].SetActive(true);
 
-        yield return new WaitForSeconds(0.5f);
+        yield return new WaitForSeconds(0.5f); // 여기는 또 그 변수로 처리 안했네 이유?
 
-        lineExplode[currentIndex].transform.position = lineWarning[currentIndex].transform.position;
-        lineWarning[currentIndex].SetActive(false);
-        lineExplode[currentIndex].SetActive(true);
+        lineExplode[currentIndex].transform.position = lineWarning[currentIndex].transform.position; // 공격 위치 설정
+        lineWarning[currentIndex].SetActive(false); // 경고표시 비활성화
+        lineExplode[currentIndex].SetActive(true); // 공격 실행
 
-        yield return new WaitForSeconds(0.3f);
+        yield return new WaitForSeconds(0.3f); // 0.3s 기다리기
 
-        lineExplode[currentIndex].SetActive(false);
+        lineExplode[currentIndex].SetActive(false); // 공격 레이저 비활성화
     }
 }

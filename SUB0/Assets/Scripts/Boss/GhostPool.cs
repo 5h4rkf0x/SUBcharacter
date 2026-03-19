@@ -8,7 +8,7 @@ public class GhostPool : MonoBehaviour,IResetable
     public List<GameObject> pools;
     int index = 0;
 
-    private void Awake()
+    private void Awake() // 잔상 준비
     {
         pools = new List<GameObject>();
         for (int i = 0; i < size; i++)
@@ -27,15 +27,23 @@ public class GhostPool : MonoBehaviour,IResetable
         }
     }
 
-    public void SpawnGhost(Sprite sprite, Vector3 position, Vector3 scale, float lifetime)
+<<<<<<< HEAD
+<<<<<<< HEAD
+    public void SpawnGhost(Sprite sprite, Vector3 position, Vector3 scale, float lifetime) // 보스 잔상 관리 함수
+=======
+    public void SpawnGhost(Sprite sprite, Vector3 position, Vector3 scale, float lifetime) // GhostTrail.cs
+>>>>>>> 331f0fa70f56fbd1683b968e9589f050f21e3f2e
+=======
+    public void SpawnGhost(Sprite sprite, Vector3 position, Vector3 scale, float lifetime) // GhostTrail.cs
+>>>>>>> 331f0fa70f56fbd1683b968e9589f050f21e3f2e
     {
-        pools[index].SetActive(true);
+        pools[index].SetActive(true); // 잔상 활성화
         SpriteRenderer sr = pools[index].GetComponent<SpriteRenderer>();
-        sr.sortingOrder = -2;
-        pools[index].transform.position = position;
+        sr.sortingOrder = -2; // 보스의 이미지를 가리면 더이상 잔상이라고 부르기 어렵기 때문에 레이어를 뒤로 보냄
+        pools[index].transform.position = position; // 잔상 위치 설정
         sr.sprite = sprite;
-        pools[index].transform.localScale = scale;
-        pools[index].GetComponent<FadeOut>().StartFade(lifetime);
-        index = (index + 1) % size;
+        pools[index].transform.localScale = scale; // 멀리 있을 때와 가까이 있을 때에 각각의 잔상의 크기 일치화
+        pools[index].GetComponent<FadeOut>().StartFade(lifetime); // 생긴 이후 시간에 따라 fadeout
+        index = (index + 1) % size; // 순환 인덱스
     }
 }
